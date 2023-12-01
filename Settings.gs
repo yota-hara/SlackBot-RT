@@ -1,0 +1,2 @@
+const EMPLOYEE_DATA_BASE = '社員DB'
+
